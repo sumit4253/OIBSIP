@@ -43,6 +43,10 @@ A full-stack Pizza Delivery and Inventory Management System built using the MERN
 4. Start the server
 5. Start the client
 
+## Importants Links
+1. User : http://localhost:5173
+2. Admin : http://localhost:5173/admin/login
+
 ## Future Improvements
 
 - Live Order Tracking
